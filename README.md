@@ -19,7 +19,7 @@
             
 ## 📚 Usage 
  
- This will make your life easier in making README files.
+ This applications generates a profile summary for various teams.
  
 ## 🙊 Languages Needed 
  
